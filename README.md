@@ -28,9 +28,9 @@ Welcome to **NewsHub**, a sleek and powerful Flutter app I built to keep you upd
 
 ## 📸 Screenshots
 
-| Screen 1 | Screen 2 |
-|----------|----------|
-| ![Screen 1](screenshots/screen_one.png) | ![Screen 2](screenshots/screen_two.png) |
+| Screen 1                          | Screen 2                             |
+|-----------------------------------|--------------------------------------|
+| ![Screen 1](screenshots/home.png) | ![Screen 2](screenshots/details.png) |
 
 ## 📦 Packages Used
 
