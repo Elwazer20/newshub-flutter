@@ -1,0 +1,2 @@
+D:/StudioProjects/news/news/android/app/.cxx/Debug/4w3y2d3t/x86_64/CMakeFiles/edit_cache.dir
+D:/StudioProjects/news/news/android/app/.cxx/Debug/4w3y2d3t/x86_64/CMakeFiles/rebuild_cache.dir
